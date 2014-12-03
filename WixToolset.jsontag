@@ -1,0 +1,9 @@
+{
+  name:"WiX Toolset v4",
+
+  id:"http://wixtoolset.org/releases/wix4/",
+  version:"4.0.2220.0",
+
+  source:"http://wixtoolset.org/downloads/v4.0.2220.0/wix40.exe",
+  tags:["wix"]
+}
