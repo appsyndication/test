@@ -5,5 +5,5 @@
   version:"1.9.4.40929",
 
   source:"https://github.com/robmen/gitsetup/releases/download/v1.9.4.40929/gitsetup.exe",
-  tags:["git", "msysgit", "dvcs"]
+  keywords:["git", "msysgit", "dvcs"]
 }
