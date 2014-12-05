@@ -1,4 +1,5 @@
 {
+  alias:"wix4",
   name:"WiX Toolset v4",
 
   id:"http://wixtoolset.org/releases/wix4/",

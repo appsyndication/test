@@ -1,4 +1,5 @@
 {
+  alias:"git",
   name:"Git on Windows",
 
   id:"https://github.com/robmen/gitsetup",
