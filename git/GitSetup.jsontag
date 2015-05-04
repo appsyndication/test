@@ -1,10 +1,10 @@
 {
-  "Link": {
+  "link": {
     "https://github.com/robmen/gitsetup/releases/download/v1.9.4.40929/gitsetup.exe": {
       "rel": "installationmedia"
     }
   },
-  "Meta": {
+  "meta": {
     "keyword": "git msysgit dvcs",
     "title": "Git on Windows"
   },
