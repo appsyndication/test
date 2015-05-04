@@ -5,7 +5,7 @@
     }
   },
   "Meta": {
-    "title": "WiX Toolset v4"
+    "title": "WiX Toolset v4",
     "keyword" : "wix"
   },
   "name": "wix4",
